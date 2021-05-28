@@ -632,7 +632,7 @@ public partial class Product
         </StackPanel>
     </Grid>
 ```
-
+##### Код логики окна:
 ```cs
 public partial class AddEdit : Window
     {
